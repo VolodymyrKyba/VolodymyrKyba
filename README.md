@@ -10,12 +10,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VolodymyrKyba](https://github.com/VolodymyrKyba)
 
-- 💬 Ask me about **Pandas, Numpy and Keras**
-
 - 📫 How to reach me **kybavolodymyr@gmail.com**
 
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ "In God we trust"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
