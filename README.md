@@ -13,7 +13,7 @@
 - 📫 How to reach me **kybavolodymyr@gmail.com**
 
 
-- ⚡ "In God we trust"
+- ⚡ **In God we trust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
