@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Volodymyr</h1>
 <h3 align="center">I am a specialist in data analysis with experience in machine learning and deep learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=volodymyrkyba&label=Profile%20views&color=0e75b6&style=flat" alt="volodymyrkyba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=volodymyrkyba" alt="volodymyrkyba" /></a> </p>
 
-- 🔭 Project [Plant Seedling Classification](https://github.com/VolodymyrKyba/project_plant_seedling_classification)
 
 - 🌱 I’m currently learning **Machine Learning courses**
-
+- 🔭 Project [Plant Seedling Classification](https://github.com/VolodymyrKyba/project_plant_seedling_classification)
 - 👯 Project [Film Review Classification](https://github.com/VolodymyrKyba/project_film_review_classification)
 
 - 🤝 Project [House Price Prediction](https://github.com/VolodymyrKyba/project_house_price_predict)
@@ -19,7 +16,6 @@
 
 - 📫 How to reach me **kybavolodymyr@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/kybav/OneDrive/Desktop/Volodymyr_Kyba_Data_Scientist_Ukraine.pdf](file:///C:/Users/kybav/OneDrive/Desktop/Volodymyr_Kyba_Data_Scientist_Ukraine.pdf)
 
 - ⚡ Fun fact **I think i am funny**
 
