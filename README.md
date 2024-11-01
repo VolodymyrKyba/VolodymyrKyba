@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/volodymyrkyba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="volodymyrkyba" height="30" width="40" /></a>
+<a href="https://t.me/kyba_volodymyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" alt="volodymyrkyba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/volodymyr-kyba-b69314180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/volodymyr-kyba-b69314180/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/kybavolodymyr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/kybavolodymyr" height="30" width="40" /></a>
 </p>
